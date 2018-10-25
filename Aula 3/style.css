@@ -1,0 +1,11 @@
+.LinhaUm, .LinhaTres{
+    width:100%;
+    height: 15vh;
+    background-color: blueviolet
+}
+
+.LinhaDois{
+    width: 100%;
+    height: 70vh;
+    background-color: aliceblue
+}
